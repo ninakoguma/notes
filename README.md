@@ -1,5 +1,5 @@
 # notes
-<h1>hi,</h1>
+<h2>hi,</h2>
 welcome to my notes page. i'm currently trying to figure out how most things work but y'know. 
 this is mostly for my notes for COMP1238 and currently building towards a portfolio.<br>
 <hr>
@@ -14,5 +14,5 @@ Shortcuts I frequently use:
 <hr>
 Shortcuts I would like to start using:
 - Ctrl-X (cut text)
-- Ctrl-W (closing window, but i'm joking here)
+- Ctrl-W (closing window, but i'm joking here)<br>
 Not a lot of keys I can think of that I don't use often since I write blogs.
